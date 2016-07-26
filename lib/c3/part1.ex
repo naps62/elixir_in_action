@@ -1,4 +1,4 @@
-defmodule Chapter3.Part1 do
+defmodule C3.Part1 do
   def list_len(list), do: do_list_len(list, 0)
 
   defp do_list_len([], n), do: n

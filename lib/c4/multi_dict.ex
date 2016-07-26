@@ -1,4 +1,4 @@
-defmodule Chapter4.MultiDict do
+defmodule C4.MultiDict do
   def new, do: HashDict.new
 
   def add(dict, key, value) do

@@ -1,5 +1,5 @@
-defmodule Chapter3.TailRecursion.Test do
-  alias Chapter3.TailRecursion
+defmodule C3.TailRecursion.Test do
+  alias C3.TailRecursion
   use ExUnit.Case, async: true
 
   test "list_len/1" do

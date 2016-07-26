@@ -1,5 +1,5 @@
-defmodule Chapter4.MultiDict.Test do
-  alias Chapter4.MultiDict
+defmodule C4.MultiDict.Test do
+  alias C4.MultiDict
   use ExUnit.Case, async: true
 
   test "stores elements" do

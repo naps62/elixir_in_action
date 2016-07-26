@@ -1,4 +1,4 @@
-defmodule Chapter3 do
+defmodule C3 do
   def lines_length!(path) do
     File.stream!(path)
     |> Enum.map(&String.length/1)

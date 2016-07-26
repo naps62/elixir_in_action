@@ -1,4 +1,4 @@
-defmodule Chapter3.TailRecursion do
+defmodule C3.TailRecursion do
   def list_len([]), do: 0
   def list_len([_ | t]) do
     1 + list_len(t)

@@ -1,4 +1,4 @@
-defmodule Chapter3.Recursion do
+defmodule C3.Recursion do
   def list_len(l), do: do_list_len(l, 0)
 
   defp do_list_len([], n), do: n
